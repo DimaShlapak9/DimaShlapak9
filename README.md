@@ -5,7 +5,7 @@
 Меня зовут Дима, и я считаю, что обеспечение качества - это та профессия, в которой я преуспел и продолжаю достигать новых вершин. У меня есть опыт тестирования веб-приложений и мобильных игр, а также сильные аналитические способности и навыки решения проблем. Я командный игрок, которому нравится работать в сотрудничестве для создания высококачественных программных решений, отвечающих потребностям клиентов и конечных пользователей.
 
 #### My portfolio - bug reports  
-- PC application - [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports), [AgeOfMystery](),[Chop chop]()
+- PC application - [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports), [AgeOfMystery](https://github.com/DimaShlapak9/AgeOfMystery.git), [Chop chop]()
 - Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter.git), [World Race](https://github.com/DimaShlapak9/World-Race.git)
 
 

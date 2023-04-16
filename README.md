@@ -6,7 +6,7 @@
 
 #### My portfolio - bug reports  
 - PC application - [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports), [Chop chop]()
-- Mobile application - [Little Shooter](), [World Race]()
+- Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter.git), [World Race]()
 
 
 ## Languages and Tools

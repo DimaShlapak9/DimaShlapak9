@@ -6,7 +6,7 @@
 
 #### My portfolio - bug reports  
 - PC application - [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports), [AgeOfMystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports), [Chop chop](https://github.com/DimaShlapak9/Chop-chop/tree/main/Bug_reports)
-- Mobile application - [Little Shooter](), [World Race]()
+- Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports), [World Race](https://github.com/DimaShlapak9/World-Race/tree/main/Bug_reports)
 
 
 ## Languages and Tools

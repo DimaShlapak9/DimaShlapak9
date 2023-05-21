@@ -11,7 +11,7 @@
 - Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports), [World Race](https://github.com/DimaShlapak9/World-Race/tree/main/Bug_reports)
 
 ### Check-lists
-- Applications: [12](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing), [BeastTraversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing), [Chop chop]()
+- Applications: [12](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing), [BeastTraversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing), [Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)
 [Little Shooter](),[World Race](),[World Race](),[World Race](),[World Race](),[World Race](),[World Race](),[World Race]()
 
 ### Test plans 

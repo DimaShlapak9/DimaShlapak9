@@ -11,7 +11,7 @@
 - Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports), [World Race](https://github.com/DimaShlapak9/World-Race/tree/main/Bug_reports)
 
 ### Check-lists
-- PC application - [Texas Massacre](), [AgeOfMystery]), [Chop chop]()
+- PC application - [Texas Massacre](), [AgeOfMystery](), [Chop chop]()
 - Mobile application - [Little Shooter](), [World Race]()
 
 ### Test plans 

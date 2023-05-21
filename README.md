@@ -15,8 +15,8 @@
 - Mobile application - [Little Shooter](), [World Race]()
 
 ### Test plans 
-- PC application - [Texas Massacre](), [AgeOfMystery](), [Chop chop]()
-- Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports), [World Race]()
+- PC application - [Texas Massacre](https://docs.google.com/document/d/1aJ4waXSq8mS6JBWwqfmrQureqjsd3zyhKWedeYjFUDQ/edit?usp=sharing), [AgeOfMystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing), [Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)
+- Mobile application - [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports), [World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)
 
 
 ## Languages and Tools

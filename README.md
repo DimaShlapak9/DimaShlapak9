@@ -1,4 +1,4 @@
-# DimaShlapak9
+# Dima Shlapak
 ![Header](https://github.com/DimaShlapak9/Portfolio/blob/main/assets/Shlapak%20Dima.png) 
 
 ## About me

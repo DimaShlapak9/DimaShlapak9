@@ -8,8 +8,8 @@
 
 ### Bug-reports 
 - PC application -
-[Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports);
-[Age Of Mystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports);
+**[Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports)**;
+**[Age Of Mystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports)**;
 [Chop chop](https://github.com/DimaShlapak9/Chop-chop/tree/main/Bug_reports);
 - Mobile application -
 [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports);

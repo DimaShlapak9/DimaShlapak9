@@ -7,16 +7,16 @@
 # Portfolio 
 
 ### Bug-reports 
-**- PC application -**
+- PC application -
 [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports);
 [Age Of Mystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports);
 [Chop chop](https://github.com/DimaShlapak9/Chop-chop/tree/main/Bug_reports);
-**- Mobile application -**
+- Mobile application -
 [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports);
 [World Race](https://github.com/DimaShlapak9/World-Race/tree/main/Bug_reports).
 
 ### Check-lists
-**- Applications -**
+- Applications -
 [12](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing);
 [Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing);
 [Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing);
@@ -29,7 +29,7 @@
 [Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing); [Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing).
 
 ### Test-plans 
-**- Applications -**
+- Applications -
 [Texas Massacre](https://docs.google.com/document/d/1aJ4waXSq8mS6JBWwqfmrQureqjsd3zyhKWedeYjFUDQ/edit?usp=sharing),  [Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing),  [Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing),
 [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports),
 [World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing).

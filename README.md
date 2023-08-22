@@ -8,8 +8,8 @@
 
 ### Bug-reports 
 - **PC application** -
-> [Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports);
-> [Age Of Mystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports);
+[Texas Massacre](https://github.com/DimaShlapak9/Texas-Massacre/tree/main/Bug_reports);
+[Age Of Mystery](https://github.com/DimaShlapak9/AgeOfMystery/tree/main/Bug_reports);
 [Chop chop](https://github.com/DimaShlapak9/Chop-chop/tree/main/Bug_reports);
 - **Mobile application** -
 [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports);
@@ -59,6 +59,6 @@
 
 
 ## Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/dima_shlapak)
+> [ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA) ](https://t.me/dima_shlapak)
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/)
 [ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](https://www.linkedin.com/in/dima-shlapak-036ba9285)

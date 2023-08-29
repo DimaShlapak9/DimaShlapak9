@@ -29,11 +29,14 @@
 [How To Dice Mushrooms](https://docs.google.com/spreadsheets/d/1iIK9rZcWkFBNI9lD_XkYo2hjQJrm-5dDk6SFxYwDgdY/edit?usp=sharing);
 [Hyper Tear Demo](https://docs.google.com/spreadsheets/d/1puJVtq8d1nHXmH4d81o3xh8KukampeEcxEiakEEcSlM/edit?usp=sharing);
 [The Adventures Of Leep And Bownd](https://docs.google.com/spreadsheets/d/1RgV0Tk3fLBMC-00RB_Hdb4UME0uCPD12AHSMfsJa7dM/edit?usp=sharing);               
-[Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing); [Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing).
+[Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing);
+[Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing).
 
 ### Test-plans 
 - **Applications** -
-[Texas Massacre](https://docs.google.com/document/d/1aJ4waXSq8mS6JBWwqfmrQureqjsd3zyhKWedeYjFUDQ/edit?usp=sharing);  [Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing);  [Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing);
+[Texas Massacre](https://docs.google.com/document/d/1aJ4waXSq8mS6JBWwqfmrQureqjsd3zyhKWedeYjFUDQ/edit?usp=sharing);
+[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing);
+[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing);
 [Little Shooter](https://github.com/DimaShlapak9/Little-Shooter/tree/main/Bug_reports);
 [World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing).
 

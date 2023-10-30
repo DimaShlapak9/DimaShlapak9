@@ -11,15 +11,15 @@
 
 ### Bug-reports 
 - **PC application** -
-[BattleOfTheWildWest](https://trello.com/invite/b/V7crSWHm/ATTI8d27842e31bc6965e63671dede83933fCD1B9B94/battleofthewildwest);
-[Age Of Mystery](https://trello.com/invite/b/cW6NScjw/ATTI6e2550558b7cc970e3a91ada93ba5dd37E28AA40/ageofmystery);
-[Chop chop](https://trello.com/invite/b/35rsbfcF/ATTI32f603333410f38165e641c0e5518366A8D16085/chopchop);
+[BattleOfTheWildWest](https://trello.com/b/V7crSWHm/battleofthewildwest);
+[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery);
+[Chop chop](https://trello.com/b/35rsbfcF/chopchop);
 - **Mobile application** -
-[Little Shooter](https://trello.com/invite/b/Uyliu2Zr/ATTIb448ed803785f5dc3ceb6ef925829c5c1A466B90/little-shooter);
-[World Race](https://trello.com/invite/b/cUshP44Z/ATTI958d85847d8101b848e1723dea866ee0A58F179D/world-race);
-[War Number](https://trello.com/invite/b/nH6VbiWw/ATTI00eb0514873c521395db7f7095fe9389D0B114B2/war-number);
+[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter);
+[World Race](https://trello.com/b/cUshP44Z/world-race);
+[War Number](https://trello.com/b/nH6VbiWw/war-number);
 - **Web-sites** -
-[Makes Scents](https://trello.com/invite/b/ckIRmhOh/ATTI3826add2abbb000530bcdd30b933bd42C2E0AE32/makes-scents);
+[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents);
 
 ### Check-lists
 - **Applications** -

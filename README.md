@@ -5,7 +5,7 @@
 
 
 ## About me
-> Меня зовут Дима, и я считаю, что обеспечение качества - это та профессия, в которой я преуспел и продолжаю достигать новых вершин. У меня есть опыт тестирования веб-приложений и мобильных игр, а также сильные аналитические способности и навыки решения проблем. Я командный игрок, которому нравится работать в сотрудничестве для создания высококачественных программных решений, отвечающих потребностям клиентов и конечных пользователей.
+> My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
 # Portfolio 
 

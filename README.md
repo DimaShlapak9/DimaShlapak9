@@ -20,7 +20,7 @@
 - **[World Race](https://trello.com/b/cUshP44Z/world-race)**  
 - **[War Number](https://trello.com/b/nH6VbiWw/war-number)** 
 ### Web-sites
-- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**.
+- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**;
 
 
 # Test-plans

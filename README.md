@@ -1,5 +1,7 @@
 ## Dima Shlapak
-![Header](https://github.com/DimaShlapak9/DimaShlapak9/assets/130790068/69c9a2cf-54e5-4801-b072-a11e2f4b9caf)
+![Header](https://github.com/user-attachments/assets/c7e9a9ab-be52-4e13-85f6-edd0a941a267)
+
+
 
 
 

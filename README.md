@@ -58,9 +58,9 @@
 
 
 # Follow Me
-[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA)
+[ ![Telegram](https://github.com/user-attachments/assets/d458b844-7b73-4cb0-939f-739fd17e0335)
 ](https://t.me/dima_shlapak)
-[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) 
+[ ![Instagam](https://github.com/user-attachments/assets/954a3694-d14a-4841-849e-bcb01d0f241d)
 ](https://www.instagram.com/)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) 
+[ ![Linkedin](https://github.com/user-attachments/assets/24becb43-f885-451a-981b-9b34252ba94d)
 ](https://www.linkedin.com/in/dima-shlapak-036ba9285)

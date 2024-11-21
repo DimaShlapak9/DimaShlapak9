@@ -66,7 +66,11 @@
 
 
 
-# Follow Me
-[![Telegram](https://github.com/user-attachments/assets/87d2b765-6dc2-4985-b975-6a40263bf6d9) ](https://t.me/dima_shlapak)
-[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) ](https://www.instagram.com/)
-[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) ](https://www.linkedin.com/in/dima-shlapak-036ba9285)
+# Follow Me![Uploading -Telegram-30A5D8 (1).svg…]()
+
+[ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA)
+](https://t.me/dima_shlapak)
+[ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) 
+](https://www.instagram.com/)
+[ ![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF) 
+](https://www.linkedin.com/in/dima-shlapak-036ba9285)

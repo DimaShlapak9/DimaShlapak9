@@ -12,15 +12,26 @@
 
 # Bug-reports 
 ### PC application
-- **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** -
-- **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** -
-- **[Chop chop](https://trello.com/b/35rsbfcF/chopchop)** - 
+- **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** 
+- **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** 
+- **[Chop chop](https://trello.com/b/35rsbfcF/chopchop)**  
 ### Mobile application
-- **[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter)** - 
-- **[World Race](https://trello.com/b/cUshP44Z/world-race)** - 
-- **[War Number](https://trello.com/b/nH6VbiWw/war-number)** - 
+- **[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter)** 
+- **[World Race](https://trello.com/b/cUshP44Z/world-race)**  
+- **[War Number](https://trello.com/b/nH6VbiWw/war-number)** 
 ### Web-sites
-- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)** - 
+- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
+
+
+# Test-plans 
+### PC application
+- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
+- **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
+- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
+### Mobile application
+- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
+- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
+
 
 # Check-lists
 - **Applications** -
@@ -36,13 +47,7 @@
 [Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing);
 [Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing);
 
-# Test-plans 
-- **Applications** -
-[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing);
-[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing);
-[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing);
-[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit);
-[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing);
+
 
 
 ## Languages and Tools

@@ -9,6 +9,9 @@
 ## About me
 > My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
+> [!NOTE]
+> My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
+
 # Portfolio 
 
 ### Bug-reports 

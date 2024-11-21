@@ -25,16 +25,16 @@ My name is Dima, and I believe that quality assurance is the profession in which
 
 # Test-plans
 ### Applications
-- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
-- **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
-- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
-- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
-- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
+>- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
+>- **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
+>- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
+>- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
+>- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
 
 
 # Check-lists
 ### Applications
-- **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
+- >**[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
 - **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)**
 - **[Demons Despai](https://docs.google.com/spreadsheets/d/1N4b6llzHY0xJSva7O46xr4_3pXjWtVC21JYJarKi11A/edit?usp=sharing)**
 - **[Electric Trains](https://docs.google.com/spreadsheets/d/1-5Cf-4k4YJ2pUR42ZGE_yWdzGhRbpauXx1v2mJ7EgZ0/edit?usp=sharing)**

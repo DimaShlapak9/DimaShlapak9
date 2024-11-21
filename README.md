@@ -16,9 +16,9 @@
 
 ### Bug-reports 
 - **PC application** -
-[https://trello.com/b/V7crSWHm/battleofthewildwest](https://trello.com/b/V7crSWHm/battleofthewildwest);
-[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery);
-[Chop chop](https://trello.com/b/35rsbfcF/chopchop);
+1. [Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest);
+2. [Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery);
+3.  [Chop chop](https://trello.com/b/35rsbfcF/chopchop);
 - **Mobile application** -
 [Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter);
 [World Race](https://trello.com/b/cUshP44Z/world-race);

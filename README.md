@@ -62,5 +62,5 @@
 ](https://t.me/dima_shlapak)
 [ ![Instagam](https://github.com/user-attachments/assets/954a3694-d14a-4841-849e-bcb01d0f241d)
 ](https://www.instagram.com/)
-[ ![Linkedin](https://github.com/user-attachments/assets/24becb43-f885-451a-981b-9b34252ba94d)
+[ ![Linkedin](https://github.com/user-attachments/assets/521c6881-61e5-4dc9-b336-4133adf06ca1)
 ](https://www.linkedin.com/in/dima-shlapak-036ba9285)

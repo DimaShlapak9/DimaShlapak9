@@ -66,7 +66,7 @@
 
 
 
-# Follow Me![Uploading -Telegram-30A5D8 (1).svg…]()
+# Follow Me
 
 [ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA)
 ](https://t.me/dima_shlapak)

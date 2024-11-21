@@ -1,9 +1,4 @@
-![Group 2](https://github.com/user-attachments/assets/fa850e57-ce72-429e-a14a-ecba99d91338)## Dima Shlapak
 ![Header](https://github.com/user-attachments/assets/3e914964-1e5d-468e-a6bf-b385dab56017)
-
-
-
-
 
 
 > # About me
@@ -42,8 +37,6 @@
 - **[Beer chicken](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing)**
 
 
-
-
 ## Languages and Tools
 ![WebTesting](https://img.shields.io/badge/-WebTesting-556AC1?style=for-the-badge&logo=WebTesting&logoColor=556AC1)
 ![GameTesting](https://img.shields.io/badge/-GameTesting-FAB000?style=for-the-badge&logo=GameTesting&logoColor=FAB000)
@@ -64,10 +57,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 
 
-
-
 # Follow Me
-
 [ ![Telegram](https://img.shields.io/badge/-Telegram-30A5D8?style=for-the-badge&logo=Telegram&logoColor=F6F9FA)
 ](https://t.me/dima_shlapak)
 [ ![Instagam](https://img.shields.io/badge/-Instagram-A601CD?style=for-the-badge&logo=Instagram&logoColor=D6A639) 

@@ -9,14 +9,14 @@
 ## About me
 > My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
-> [!About me]
-> I believe that quality assurance is a profession in which I excel and continue to reach new heights. I have experience testing web applications and mobile games, as well as strong analytical and problem- solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users..
+> [!Note]
+> I believe that quality assurance is a profession in which I excel and continue to reach new heights. I have experience testing web applications and mobile games, as well as strong analytical and problem- solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
 # Portfolio 
 
 ### Bug-reports 
 - **PC application** -
-[BattleOfTheWildWest](https://trello.com/b/V7crSWHm/battleofthewildwest);
+[https://trello.com/b/V7crSWHm/battleofthewildwest](https://trello.com/b/V7crSWHm/battleofthewildwest);
 [Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery);
 [Chop chop](https://trello.com/b/35rsbfcF/chopchop);
 - **Mobile application** -

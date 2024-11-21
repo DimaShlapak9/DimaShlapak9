@@ -58,10 +58,10 @@
 
 
 # Follow Me
-[ ![Linkedin](https://github.com/user-attachments/assets/a1b539f1-dad5-450d-8720-ee31dd172e9b)
+[ ![Linkedin](https://github.com/user-attachments/assets/7f026357-11e8-4471-b107-95dfd57da993)
 ](https://www.linkedin.com/in/dima-shlapak-036ba9285)
-[ ![Telegram](https://github.com/user-attachments/assets/d458b844-7b73-4cb0-939f-739fd17e0335)
+[ ![Telegram](https://github.com/user-attachments/assets/9cd0e174-74d6-4d5c-bf40-9046ea133f30)
 ](https://t.me/dima_shlapak)
-[ ![Instagam](https://github.com/user-attachments/assets/954a3694-d14a-4841-849e-bcb01d0f241d)
+[ ![Instagam](https://github.com/user-attachments/assets/e0399299-505b-4c0f-b8e6-57fcf3225d1a)
 ](https://www.instagram.com/)
 

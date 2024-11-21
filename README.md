@@ -34,15 +34,11 @@
 
 # Check-lists
 ### Applications
-- **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
-- **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)** - **[Demons Despai](https://docs.google.com/spreadsheets/d/1N4b6llzHY0xJSva7O46xr4_3pXjWtVC21JYJarKi11A/edit?usp=sharing)**
-- **[Electric Trains](https://docs.google.com/spreadsheets/d/1-5Cf-4k4YJ2pUR42ZGE_yWdzGhRbpauXx1v2mJ7EgZ0/edit?usp=sharing)**
-- **[GMTK Game Jam](https://docs.google.com/spreadsheets/d/1Y6Kv_-71q6myIlMvR_c6gUEi_81q_WzExGU0QvXNUug/edit?usp=sharing)**
-- **[How To Dice Mushrooms](https://docs.google.com/spreadsheets/d/1iIK9rZcWkFBNI9lD_XkYo2hjQJrm-5dDk6SFxYwDgdY/edit?usp=sharing)**
-- **[Hyper Tear Demo](https://docs.google.com/spreadsheets/d/1puJVtq8d1nHXmH4d81o3xh8KukampeEcxEiakEEcSlM/edit?usp=sharing)**
-- **[The Adventures Of Leep And Bownd](https://docs.google.com/spreadsheets/d/1RgV0Tk3fLBMC-00RB_Hdb4UME0uCPD12AHSMfsJa7dM/edit?usp=sharing)**
-- **[Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing)**
-- **[Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing)**
+- **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)** - **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)** 
+- **[Demons Despai](https://docs.google.com/spreadsheets/d/1N4b6llzHY0xJSva7O46xr4_3pXjWtVC21JYJarKi11A/edit?usp=sharing)** - **[Electric Trains](https://docs.google.com/spreadsheets/d/1-5Cf-4k4YJ2pUR42ZGE_yWdzGhRbpauXx1v2mJ7EgZ0/edit?usp=sharing)**
+- **[GMTK Game Jam](https://docs.google.com/spreadsheets/d/1Y6Kv_-71q6myIlMvR_c6gUEi_81q_WzExGU0QvXNUug/edit?usp=sharing)** - **[How To Dice Mushrooms](https://docs.google.com/spreadsheets/d/1iIK9rZcWkFBNI9lD_XkYo2hjQJrm-5dDk6SFxYwDgdY/edit?usp=sharing)**
+- **[Hyper Tear Demo](https://docs.google.com/spreadsheets/d/1puJVtq8d1nHXmH4d81o3xh8KukampeEcxEiakEEcSlM/edit?usp=sharing)** - **[The Adventures Of Leep And Bownd](https://docs.google.com/spreadsheets/d/1RgV0Tk3fLBMC-00RB_Hdb4UME0uCPD12AHSMfsJa7dM/edit?usp=sharing)**
+- **[Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing)** - **[Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing)**
 - **[Beer chicken](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing)**
 
 

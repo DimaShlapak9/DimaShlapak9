@@ -25,11 +25,11 @@ My name is Dima, and I believe that quality assurance is the profession in which
 
 # Test-plans
 ### Applications
->- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**>
+>- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**<
 >- **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**>
->- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**>
->- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**>
->- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**>
+>- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
+>- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
+>- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
 
 
 # Check-lists

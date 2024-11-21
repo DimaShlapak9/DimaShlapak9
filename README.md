@@ -10,7 +10,7 @@
 > My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
 
-[# Bug-reports 
+# Bug-reports 
 ### PC application
 - **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** 
 - **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** 
@@ -20,7 +20,7 @@
 - **[World Race](https://trello.com/b/cUshP44Z/world-race)**  
 - **[War Number](https://trello.com/b/nH6VbiWw/war-number)** 
 ### Web-sites
-- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**]
+- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
 
 
 # Test-plans
@@ -34,7 +34,7 @@
 
 # Check-lists
 ### Applications
-- **[12](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing)**; **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
+- **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
 - **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)**
 - **[Demons Despai](https://docs.google.com/spreadsheets/d/1N4b6llzHY0xJSva7O46xr4_3pXjWtVC21JYJarKi11A/edit?usp=sharing)**
 - **[Electric Trains](https://docs.google.com/spreadsheets/d/1-5Cf-4k4YJ2pUR42ZGE_yWdzGhRbpauXx1v2mJ7EgZ0/edit?usp=sharing)**
@@ -44,6 +44,7 @@
 - **[The Adventures Of Leep And Bownd](https://docs.google.com/spreadsheets/d/1RgV0Tk3fLBMC-00RB_Hdb4UME0uCPD12AHSMfsJa7dM/edit?usp=sharing)**    
 - **[Toziuha Night - Order of the Alchemists](https://docs.google.com/spreadsheets/d/1_ntqJoAVsrIeouulTFKlaFOzytmaMl2yHvUtGBgZmKA/edit?usp=sharing)**
 - **[Upscaled_V0.2](https://docs.google.com/spreadsheets/d/1eYji5lkKK5kaX6zjQiQw67FsbSQSzB0xQYk5I58lunA/edit?usp=sharing)**
+- **[12](https://docs.google.com/spreadsheets/d/1DTkf-j9UddIYEZ-yvNUQ8W5TvRkYLbcZ-krcDBvvyGM/edit?usp=sharing)**
 
 
 

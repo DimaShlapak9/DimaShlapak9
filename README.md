@@ -23,12 +23,7 @@
 - **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
 
 
-
-
-
-
-
-# Test-plans 
+# Test-plans[^2].
 ### PC application
 - **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
 - **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**

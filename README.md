@@ -13,14 +13,14 @@
 # Bug-reports 
 ### PC application
 - **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** -
-**[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)**
-**[Chop chop](https://trello.com/b/35rsbfcF/chopchop)**
-- **Mobile application** -
-[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter);
-[World Race](https://trello.com/b/cUshP44Z/world-race);
-[War Number](https://trello.com/b/nH6VbiWw/war-number);
-- **Web-sites** -
-[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents);
+- **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** -
+- **[Chop chop](https://trello.com/b/35rsbfcF/chopchop)** - 
+### Mobile application
+- **[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter)** - 
+- **[World Race](https://trello.com/b/cUshP44Z/world-race)** - 
+- **[War Number](https://trello.com/b/nH6VbiWw/war-number)** - 
+### Web-sites
+- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)** - 
 
 # Check-lists
 - **Applications** -

@@ -11,7 +11,7 @@
 
 
 # Bug-reports 
-- **PC application** -
+### PC application
 1. [Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest);
 2. [Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery);
 3.  [Chop chop](https://trello.com/b/35rsbfcF/chopchop);

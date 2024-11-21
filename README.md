@@ -12,30 +12,30 @@ My name is Dima, and I believe that quality assurance is the profession in which
 
 # Bug-reports 
 ### PC application
->- **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** 
->- **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** 
->- **[Chop chop](https://trello.com/b/35rsbfcF/chopchop)**  
+> > - **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** 
+> > - **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** 
+> > - **[Chop chop](https://trello.com/b/35rsbfcF/chopchop)**  
 ### Mobile application
->- **[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter)** 
->- **[World Race](https://trello.com/b/cUshP44Z/world-race)**  
->- **[War Number](https://trello.com/b/nH6VbiWw/war-number)** 
+> > - **[Little Shooter](https://trello.com/b/Uyliu2Zr/little-shooter)** 
+> > - **[World Race](https://trello.com/b/cUshP44Z/world-race)**  
+> > - **[War Number](https://trello.com/b/nH6VbiWw/war-number)** 
 ### Web-sites
->- **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
+> > - **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
 
 
 # Test-plans
 ### Applications
->- **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
->- **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
->- **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
->- **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
->- **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
+> > - **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
+> > - **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
+> > - **[Chop chop](https://docs.google.com/document/d/1WJuJSrFufFaVbxouf-Wu4ArCcUUNlX4G9eRcjXsIlWs/edit?usp=sharing)**
+> > - **[Little Shooter](https://docs.google.com/document/d/1v65fnaUCZr-iNrpG0pbyw6aKxVETr8kxnkVrGgBkqO0/edit)**
+> > - **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
 
 
 # Check-lists
 ### Applications
 > > - **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
-> >- **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)**
+> > - **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)**
 > > - **[Demons Despai](https://docs.google.com/spreadsheets/d/1N4b6llzHY0xJSva7O46xr4_3pXjWtVC21JYJarKi11A/edit?usp=sharing)**
 > > - **[Electric Trains](https://docs.google.com/spreadsheets/d/1-5Cf-4k4YJ2pUR42ZGE_yWdzGhRbpauXx1v2mJ7EgZ0/edit?usp=sharing)**
 > > - **[GMTK Game Jam](https://docs.google.com/spreadsheets/d/1Y6Kv_-71q6myIlMvR_c6gUEi_81q_WzExGU0QvXNUug/edit?usp=sharing)**

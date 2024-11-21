@@ -10,7 +10,7 @@
 > My name is Dima, and I believe that quality assurance is the profession in which I excel and continue to reach new heights. I have experience in testing web applications and mobile games, as well as strong analytical and problem solving skills. I am a team player who enjoys working collaboratively to create high quality software solutions that meet the needs of customers and end users.
 
 
-## Bug-reports 
+> # Bug-reports 
 ### PC application
 - **[Battle Of The Wild West](https://trello.com/b/V7crSWHm/battleofthewildwest)** 
 - **[Age Of Mystery](https://trello.com/b/cW6NScjw/ageofmystery)** 
@@ -23,7 +23,7 @@
 - **[Makes Scents](https://trello.com/b/ckIRmhOh/makes-scents)**
 
 
-## Test-plans
+# Test-plans
 ### Applications
 - **[BattleOfTheWildWest](https://docs.google.com/document/d/1RMlkOfIhcguEZ3gepqZ47k6E4w2jIb61Y1NxnMYwZAY/edit?usp=sharing)**
 - **[Age Of Mystery](https://docs.google.com/document/d/1J5EFrVTffp72Qtf-NGvk85poG6VoOx1IioLJBNkn-mc/edit?usp=sharing)**
@@ -32,7 +32,7 @@
 - **[World Race](https://docs.google.com/document/d/1EGfvzPkxjnOGcR1qTtltGkKQKD45CvHBtnbfwyHwPE4/edit?usp=sharing)**
 
 
-## Check-lists
+# Check-lists
 ### Applications
 - **[Beast Traversing](https://docs.google.com/spreadsheets/d/1ME3V2b3zlfbTDoV7y8eSSG5D_umWDzxOO2CNy-vET1A/edit?usp=sharing)**
 - **[Demo](https://docs.google.com/spreadsheets/d/16Dx0lNM_ZloPu_ZKSoHZpfbs-9msRHAH3YCb7upkN-A/edit?usp=sharing)**
